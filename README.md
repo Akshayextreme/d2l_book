@@ -1,1 +1,1 @@
-# d2l_book
+- Solved exercises from [Dive into Deep Learning](https://d2l.ai/index.html) book as part of [dair-ai  study group](https://github.com/dair-ai/d2l-study-group).
